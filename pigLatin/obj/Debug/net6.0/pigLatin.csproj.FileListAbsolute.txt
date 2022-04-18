@@ -1,0 +1,15 @@
+C:\GCclasswork\c#class\pigLatin\pigLatin\bin\Debug\net6.0\pigLatin.exe
+C:\GCclasswork\c#class\pigLatin\pigLatin\bin\Debug\net6.0\pigLatin.deps.json
+C:\GCclasswork\c#class\pigLatin\pigLatin\bin\Debug\net6.0\pigLatin.runtimeconfig.json
+C:\GCclasswork\c#class\pigLatin\pigLatin\bin\Debug\net6.0\pigLatin.dll
+C:\GCclasswork\c#class\pigLatin\pigLatin\bin\Debug\net6.0\ref\pigLatin.dll
+C:\GCclasswork\c#class\pigLatin\pigLatin\bin\Debug\net6.0\pigLatin.pdb
+C:\GCclasswork\c#class\pigLatin\pigLatin\obj\Debug\net6.0\pigLatin.csproj.AssemblyReference.cache
+C:\GCclasswork\c#class\pigLatin\pigLatin\obj\Debug\net6.0\pigLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\GCclasswork\c#class\pigLatin\pigLatin\obj\Debug\net6.0\pigLatin.AssemblyInfoInputs.cache
+C:\GCclasswork\c#class\pigLatin\pigLatin\obj\Debug\net6.0\pigLatin.AssemblyInfo.cs
+C:\GCclasswork\c#class\pigLatin\pigLatin\obj\Debug\net6.0\pigLatin.csproj.CoreCompileInputs.cache
+C:\GCclasswork\c#class\pigLatin\pigLatin\obj\Debug\net6.0\pigLatin.dll
+C:\GCclasswork\c#class\pigLatin\pigLatin\obj\Debug\net6.0\ref\pigLatin.dll
+C:\GCclasswork\c#class\pigLatin\pigLatin\obj\Debug\net6.0\pigLatin.pdb
+C:\GCclasswork\c#class\pigLatin\pigLatin\obj\Debug\net6.0\pigLatin.genruntimeconfig.cache
